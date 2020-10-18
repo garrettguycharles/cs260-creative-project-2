@@ -24,7 +24,4 @@ button.addEventListener("mouseup", function(event) {
       contentDiv.innerHTML = "&quot;" + json.quote + "&quot;";
 
     });
-
-    rotateKanye();
-
 });
